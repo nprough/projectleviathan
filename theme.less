@@ -7,8 +7,12 @@
     color: @foreground;
 }
 
+.CodeMirror-gutters {
+    background-color: @background;
+}
+
 .CodeMirror-focused .CodeMirror-activeline-background {
-    background: #ddd;
+    background: @foreground;
     opacity: .1;
 }
 
@@ -54,7 +58,7 @@
 }
 
 .cm-minus {
-    color: #BC79FF;
+    color: lightblue;
 }
 
 .cm-header {
@@ -62,7 +66,7 @@
 }
 
 .cm-link {
-    color: #00A3B2;
+    color: lightblue;
     text-decoration: none;
 }
 
