@@ -1,4 +1,4 @@
-![Logo](https://github.com/nprough/projectleviathan/blob/master/logo.png)
+![Logo]({{site.url}}{{site.baseurl}}/logo.png)
 # Project Leviathan-Dark
 Bracket's Dark Theme
 
