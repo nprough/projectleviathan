@@ -1,4 +1,3 @@
-![Logo]({{site.url}}{{site.baseurl}}/logo.png)
 # Project Leviathan-Dark
 Bracket's Dark Theme
 
