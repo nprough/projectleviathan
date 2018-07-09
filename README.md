@@ -1,3 +1,4 @@
+![Logo](www.github.com/nprough/projectleviathan/logo.png)
 # Project Leviathan-Dark
 Bracket's Dark Theme
 
